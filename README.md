@@ -1,2 +1,3 @@
-# continuous-integration
-Ejemplo de Integración Continua con GitHub Actions
+# Ejemplo de Integración Continua con GitHub Actions
+
+Este proyecto ofrece una Calculadora hecha en Java
